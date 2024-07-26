@@ -36,12 +36,12 @@ keyword:
  - DNS
  - svcb
  - altname
-#venue:
+venue:
 #  group: WG
 #  type: Working Group
 #  mail: WG@example.com
 #  arch: https://example.com/WG
-#  github: USER/REPO
+  github: shane-kerr/dns-altname
 #  latest: https://example.com/LATEST
 
 author:
@@ -49,7 +49,6 @@ author:
     fullname: Shane Kerr
     organization: IBM
     email: shane.kerr@ibm.com
-
  -
     fullname: Alireza Saleh
     organization: BlueCat Networks
