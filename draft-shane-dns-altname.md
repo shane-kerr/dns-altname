@@ -37,9 +37,9 @@ keyword:
  - svcb
  - altname
 venue:
-#  group: WG
-#  type: Working Group
-#  mail: WG@example.com
+  group: dnsop
+  type: Independent Submission
+  mail: dnsop@ietf.org
 #  arch: https://example.com/WG
   github: shane-kerr/dns-altname
 #  latest: https://example.com/LATEST
